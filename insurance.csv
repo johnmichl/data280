@@ -1,4 +1,4 @@
-﻿age,sex,bmi,children,smoker,charges,region_cat
+﻿age,sex,bmi,children,smoker,charges,region
 19,female,27.9,0,yes,16884.924,southwest
 18,male,33.77,1,no,1725.5523,southeast
 28,male,33,3,no,4449.462,southeast
